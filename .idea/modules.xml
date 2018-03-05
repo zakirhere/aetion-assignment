@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aetion-assignment.iml" filepath="$PROJECT_DIR$/.idea/modules/aetion-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aetion-assignment_main.iml" filepath="$PROJECT_DIR$/.idea/modules/aetion-assignment_main.iml" group="aetion-assignment" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aetion-assignment_test.iml" filepath="$PROJECT_DIR$/.idea/modules/aetion-assignment_test.iml" group="aetion-assignment" />
+    </modules>
+  </component>
+</project>
